@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/1101-id-tododemo/static/css/main.3ab135b5.chunk.css",
-    "main.js": "/1101-id-tododemo/static/js/main.7066f4d6.chunk.js",
-    "main.js.map": "/1101-id-tododemo/static/js/main.7066f4d6.chunk.js.map",
-    "runtime-main.js": "/1101-id-tododemo/static/js/runtime-main.fd0ac8c9.js",
-    "runtime-main.js.map": "/1101-id-tododemo/static/js/runtime-main.fd0ac8c9.js.map",
-    "static/js/2.db485b93.chunk.js": "/1101-id-tododemo/static/js/2.db485b93.chunk.js",
-    "static/js/2.db485b93.chunk.js.map": "/1101-id-tododemo/static/js/2.db485b93.chunk.js.map",
-    "static/js/3.da4dafdd.chunk.js": "/1101-id-tododemo/static/js/3.da4dafdd.chunk.js",
-    "static/js/3.da4dafdd.chunk.js.map": "/1101-id-tododemo/static/js/3.da4dafdd.chunk.js.map",
-    "index.html": "/1101-id-tododemo/index.html",
-    "static/css/main.3ab135b5.chunk.css.map": "/1101-id-tododemo/static/css/main.3ab135b5.chunk.css.map",
-    "static/js/2.db485b93.chunk.js.LICENSE.txt": "/1101-id-tododemo/static/js/2.db485b93.chunk.js.LICENSE.txt"
+    "main.css": "/1101-20-tododemo/static/css/main.3ab135b5.chunk.css",
+    "main.js": "/1101-20-tododemo/static/js/main.7066f4d6.chunk.js",
+    "main.js.map": "/1101-20-tododemo/static/js/main.7066f4d6.chunk.js.map",
+    "runtime-main.js": "/1101-20-tododemo/static/js/runtime-main.4811ff2d.js",
+    "runtime-main.js.map": "/1101-20-tododemo/static/js/runtime-main.4811ff2d.js.map",
+    "static/js/2.db485b93.chunk.js": "/1101-20-tododemo/static/js/2.db485b93.chunk.js",
+    "static/js/2.db485b93.chunk.js.map": "/1101-20-tododemo/static/js/2.db485b93.chunk.js.map",
+    "static/js/3.da4dafdd.chunk.js": "/1101-20-tododemo/static/js/3.da4dafdd.chunk.js",
+    "static/js/3.da4dafdd.chunk.js.map": "/1101-20-tododemo/static/js/3.da4dafdd.chunk.js.map",
+    "index.html": "/1101-20-tododemo/index.html",
+    "static/css/main.3ab135b5.chunk.css.map": "/1101-20-tododemo/static/css/main.3ab135b5.chunk.css.map",
+    "static/js/2.db485b93.chunk.js.LICENSE.txt": "/1101-20-tododemo/static/js/2.db485b93.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd0ac8c9.js",
+    "static/js/runtime-main.4811ff2d.js",
     "static/js/2.db485b93.chunk.js",
     "static/css/main.3ab135b5.chunk.css",
     "static/js/main.7066f4d6.chunk.js"
